@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\Checked\bin\Debug\Checked.exe.config
+C:\Users\willi\source\repos\Checked\bin\Debug\Checked.exe
+C:\Users\willi\source\repos\Checked\bin\Debug\Checked.pdb
+C:\Users\willi\source\repos\Checked\obj\Debug\Checked.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Checked\obj\Debug\Checked.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Checked\obj\Debug\Checked.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Checked\obj\Debug\Checked.exe
+C:\Users\willi\source\repos\Checked\obj\Debug\Checked.pdb
+C:\Users\willi\Documents\C#\Checked\bin\Debug\Checked.exe.config
+C:\Users\willi\Documents\C#\Checked\bin\Debug\Checked.exe
+C:\Users\willi\Documents\C#\Checked\bin\Debug\Checked.pdb
+C:\Users\willi\Documents\C#\Checked\obj\Debug\Checked.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\C#\Checked\obj\Debug\Checked.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\C#\Checked\obj\Debug\Checked.exe
+C:\Users\willi\Documents\C#\Checked\obj\Debug\Checked.pdb
